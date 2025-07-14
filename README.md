@@ -14,4 +14,5 @@
 4. Run the Streamlit app:
    ```
    streamlit run frontend/app.py
-   ```
+5. Streamlit app link
+   https://loan-approval-rag-chatbot-nttwgal5xwjcua88h2jxcn.streamlit.app/
